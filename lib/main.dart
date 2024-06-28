@@ -33,8 +33,7 @@ class MyApp extends StatelessWidget {
               FavouriteBloc(productRepository: FavouriteRepository()),
         ),
         BlocProvider(
-          create: (context) =>
-              CartBloc(cartRepository: CartRepository()),
+          create: (context) => CartBloc(cartRepository: CartRepository()),
         ),
       ],
       child: MaterialApp(
