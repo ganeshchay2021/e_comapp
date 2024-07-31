@@ -1,6 +1,6 @@
 # e_comapp
 
-The Project is Ecommerce Demo Project. I have done this for practice. 
+The Project is Ecommerce Demo Project. I have done this for practice.
 
 # Output
 
